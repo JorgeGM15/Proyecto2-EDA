@@ -36,16 +36,16 @@ Para compilar y correr el proyecto, necesitas un compilador de C como **GCC**.
 2.  **Abre una terminal** en el directorio del proyecto.
 3.  **Compila el código** con el siguiente comando:
     ```bash
-    gcc nombre_del_archivo.c -o gestor_tareas
+    gcc Proyecto2-EDA.c 
     ```
-    *(Reemplaza `nombre_del_archivo.c` con el nombre de tu archivo C)*.
+ 
 
 4.  **Ejecuta el programa**:
     * En Windows:
         ```bash
-        gestor_tareas.exe
+        Proyecto2-EDA.exe
         ```
     * En Linux o macOS:
         ```bash
-        ./gestor_tareas
+        ./Proyecto2-EDA
         ```
